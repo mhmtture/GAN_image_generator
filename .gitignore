@@ -1,0 +1,10 @@
+# Veri seti (HuggingFace'ten indirilebilir, ~9.6k görsel + 118 MB önbellek)
+data/
+
+# Eğitime devam etmek için gereken büyük checkpoint (90 MB)
+gan_ciktilar/checkpoint.pt
+
+# Python geçici dosyaları ve loglar
+__pycache__/
+*.pyc
+*.log
